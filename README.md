@@ -22,9 +22,9 @@
 - [Awesome Fintech](https://github.com/7kfpun/awesome-fintech)
 
 ## Web
-*[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
-*[Awesome Jquery](https://github.com/petk/awesome-jquery)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [Awesome Jquery](https://github.com/petk/awesome-jquery)
 
 ## Code Management
-*[Awesome GitHub](https://github.com/fffaraz/awesome-github)
+* [Awesome GitHub](https://github.com/fffaraz/awesome-github)
 
