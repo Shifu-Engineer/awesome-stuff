@@ -1,4 +1,4 @@
-# Awasome stuff
+# Awesome stuff
 
 *Collection of Awesome resource from across the Internet.*
 
