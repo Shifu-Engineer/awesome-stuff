@@ -28,3 +28,6 @@
 ## Code Management
 * [Awesome GitHub](https://github.com/fffaraz/awesome-github)
 
+## Interviews
+* [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
