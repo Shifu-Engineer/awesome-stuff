@@ -28,6 +28,13 @@
 ## Code Management
 * [Awesome GitHub](https://github.com/fffaraz/awesome-github)
 
+## Design Patterns
+* [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+
 ## Interviews
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Interactive Coding challenge](https://github.com/donnemartin/interactive-coding-challenges)
+
+## ETL
+* [ETL](https://github.com/pawl/awesome-etl)
 
