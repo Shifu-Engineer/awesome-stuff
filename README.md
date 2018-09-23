@@ -34,6 +34,7 @@
 ## Interviews
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [Interactive Coding challenge](https://github.com/donnemartin/interactive-coding-challenges)
+* [Interview Preparations](https://github.com/samgh/Byte-by-Byte-Solutions.git)
 
 ## ETL
 * [ETL](https://github.com/pawl/awesome-etl)
